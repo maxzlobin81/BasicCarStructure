@@ -10,7 +10,14 @@ public class Main {
         x.size="big";
         x.weight="heavy";
 
+<<<<<<< HEAD
         color d=new color();
         d.red="red";
+=======
+        lights v=new lights();
+        v.color="red";
+        v.size="supersized";
+        v.intensity="very intense";
+>>>>>>> lights
     }
 }
