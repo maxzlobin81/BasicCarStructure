@@ -9,5 +9,8 @@ public class Main {
         x.cylinders="8";
         x.size="big";
         x.weight="heavy";
+
+        color d=new color();
+        d.red="red";
     }
 }
